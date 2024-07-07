@@ -23,9 +23,9 @@
 
 📫 How to reach me **enjapurisameer@gmail.com**
 
-📄 To view my porfolio [https://senjapuri.github.io/Portfolio-Website/#](https://senjapuri.github.io/Portfolio-Website/#)
+📄 To view my porfolio [https://samenjapuri.github.io/Portfolio-Website/#](https://samenjapuri.github.io/Portfolio-Website/#)
 
-👨‍💻 All of my projects are available at [https://github.com/senjapuri](https://github.com/senjapuri)
+👨‍💻 All of my projects are available at [https://github.com/samenjapuri](https://github.com/samenjapuri)
 
 <!--⚡ Fun fact **I am Funny**-->
 
@@ -103,11 +103,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senjapuri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="senjapuri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samenjapuri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="samenjapuri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senjapuri&show_icons=true&locale=en&theme=tokyonight" alt="senjapuri" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samenjapuri&show_icons=true&locale=en&theme=tokyonight" alt="samenjapuri" /></p> -->
 
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senjapuri&&theme=tokyonight" alt="senjapuri" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samenjapuri&&theme=tokyonight" alt="samenjapuri" /></p> 
 
