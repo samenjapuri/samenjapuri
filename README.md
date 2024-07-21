@@ -25,7 +25,7 @@
 
 📄  [To view my porfolio](https://samenjapuri.github.io/Portfolio-Website/#)
 
-👨‍💻 All of my projects are available at [Sameer Enjapuri Projects](https://github.com/samenjapuri)
+👨‍💻 All of my projects are available at [Project Repositories](https://github.com/samenjapuri?tab=repositories)
 
 <!--⚡ Fun fact **I am Funny**-->
 
