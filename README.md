@@ -23,7 +23,7 @@
 
 📫 How to reach me **enjapurisameer@gmail.com**
 
-📄 To view my porfolio [https://samenjapuri.github.io/Portfolio-Website/#](https://samenjapuri.github.io/Portfolio-Website/#)
+📄 To view my porfolio [Portfolio](https://samenjapuri.github.io/Portfolio-Website/#)
 
 👨‍💻 All of my projects are available at [https://github.com/samenjapuri](https://github.com/samenjapuri)
 
